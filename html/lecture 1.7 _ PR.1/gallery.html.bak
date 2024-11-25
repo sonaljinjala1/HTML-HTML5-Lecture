@@ -1,0 +1,66 @@
+<html>
+	<head>
+		<title>
+			GALLERY:
+		</title>
+	</head>
+	<body>
+		<br>
+		<br>
+		<hr>
+		<hr>
+		<br>
+		<br>
+		<center>
+			<a href="index.html" target="_new">HOME PAGE</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="about.html" target="_new">ABOUT US</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="gallery.html" target="_new">GALLERY</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="activity.html" target="_new">ADMISSION</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="contact.html" target="_new">CONTACT US</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		</center>
+		<br>
+		<br>
+		<hr>
+		<hr>
+		
+		<p><center>	<H2><U>OUR ACTIVITIES:</U></H2></center></p>
+		<center>
+		<marquee scrollamount="20" behavior="scroll"  direction="right">
+			<img src="img/f1.jpg" alt="11.jpg" title="sunshine school" width="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<img src="img/f2.jpg" alt="12.jpg" title="sunshine school" width="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<img src="img/f3.jpg" alt="13.jpg" title="sunshine school" width="400">&nbsp;&nbsp;&nbsp;&nbsp;
+		</marquee>
+		<br>                                                   
+		<br>
+			
+			<img src="img/10.jpg" alt="5.jpg" title="sunshine school" width="400" align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<img src="img/2.png" title="sunshine school" width="300" align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<img src="img/11.jpg" alt="16.jpg" title="sunshine school" width="400" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+		<br>
+		<br>
+		
+		<marquee scrollamount="20"  behavior="scroll" direction="right" >
+			<img src="img/f7.jpg"  title="sunshine school" width="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<img src="img/f4.jpg" title="sunshine school" width="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<img src="img/ff.jpg" title="sunshine school" width="400">&nbsp;&nbsp;&nbsp;&nbsp;
+		</marquee>
+		<br>                                                
+		<br>                
+		</center>
+		
+		<hr><br><br>
+		<center>
+		<video controls loop>
+			<source src="img/vedio.mp4">
+		</video>
+		<br>
+		<audio controls loop autoplay>
+				<source src="img/audio.mp3">
+		</audio>
+		</center>
+		<br>
+		<br>
+		<hr>
+		<hr>
+	</body>
+</html>
